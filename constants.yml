@@ -1,0 +1,15 @@
+{
+  "stage": {
+    "id": {
+      "checkout":"checkout",
+      "build": "build",
+      "unit_test":"unit_test"
+    }
+  },
+  "result_codes": {
+    "success": "Success",
+    "failure": "Failure",
+    "cancelled": "Cancelled",
+    "skipped": "Skipped"
+  }
+}
